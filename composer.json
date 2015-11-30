@@ -1,45 +1,33 @@
 {
-    "name": "gridguyz/core",
-    "type": "gridguyz-modules",
-    "description": "Core modules for Gridguyz CMS",
-    "license": "CC-BY-SA-3.0",
+    "name": "webriqcms/core",
+    "type": "webriqcms-modules",
+    "description": "Core modules for WebriQ CMS",
+    "license": "BSD-3-Clause",
     "keywords": [
-        "gridguyz",
+        "webriqcms",
         "module",
         "core"
     ],
-    "homepage": "http://gridguyz.com/",
+    "homepage": "http://webriq.com/",
     "authors": [
         {
-            "name": "Gridguyz developer team",
-            "email": "dev@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
+            "name": "WebriQ Dev Team",
+            "email": "info@webriq.com",
+            "homepage": "http://webriq.com/",
             "role": "Developer team"
-        },
-        {
-            "name": "Mihály Farkas",
-            "email": "mihaly.farkas@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
-            "role": "Developer"
-        },
-        {
-            "name": "David Pozsar",
-            "email": "david.pozsar@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
-            "role": "Developer"
         }
     ],
     "support": {
-        "email": "dev@megaweb.hu",
-        "source": "https://github.com/gridguyz/core"
+        "email": "info@webriq.com",
+        "source": "https://github.com/webriq/core"
     },
     "require": {
         "php": ">=5.4",
         "ext-pdo_pgsql": "*",
         "codeplex/phpexcel": "1.*",
         "dflydev/markdown": "1.*",
-        "gridguyz/zork": "*",
-        "gridguyz/module-installer": "*"
+        "webriqcms/zork": "*",
+        "webriqcms/module-installer": "*"
     },
     "autoload": {
         "psr-0": {
@@ -65,7 +53,7 @@
     },
     "extra": {
         "display-icon": {
-            "63": "https://raw.github.com/gridguyz/core/%reference%/icons/63x63.png"
+            "63": "https://raw.githubusercontent.com/webriq/core/master/icons/63x63.png"
         },
         "display-name": {
             "en": "Core"
