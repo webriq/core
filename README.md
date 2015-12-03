@@ -1,8 +1,8 @@
-Core modules for Gridguyz
-=========================
+Core modules for WebriQ CMS
+===========================
 
-This package includes core modules for Gridguyz.
-All of them needs to run Gridguyz CMS.
+This package includes core modules for WebriQ CMS.
+
 
 It includes:
 
@@ -18,6 +18,6 @@ It includes:
 License
 -------
 
-Gridguyz is under **Creative Commons Attribution-ShareAlike 3.0** (cc-by-sa-3.0).
+WebriQ CMS is under BSD License.
 More info at [LICENSE.txt](LICENSE.txt).
 
